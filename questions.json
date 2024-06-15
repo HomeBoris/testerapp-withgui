@@ -1,0 +1,142 @@
+﻿[
+  {
+    "question": "Кто режиссёр фильма 'Крестный отец'?",
+    "answers": [ "Фрэнсис Форд Коппола", "Мартин Скорсезе", "Стивен Спилберг", "Квентин Тарантино" ],
+    "correct_answers": [ "Фрэнсис Форд Коппола" ],
+    "multiple": false,
+    "topic": "Фильмы"
+  },
+  {
+    "question": "Как называется фильм с героями, которые живут в виртуальной реальности и борются с машинами?",
+    "answers": [ "Матрица", "Терминатор", "Пятый элемент", "Бегущий по лезвию" ],
+    "correct_answers": [ "Матрица" ],
+    "multiple": false,
+    "topic": "Фильмы"
+  },
+  {
+    "question": "Какого актера называют 'Королем ужасов'?",
+    "answers": [ "Винсент Прайс", "Борис Карлофф", "Бела Лугоши", "Кристофер Ли" ],
+    "correct_answers": [ "Винсент Прайс" ],
+    "multiple": false,
+    "topic": "Фильмы"
+  },
+  {
+    "question": "Кто сыграл Джокера в фильме 'Темный рыцарь'?",
+    "answers": [ "Хит Леджер", "Джаред Лето", "Хоакин Феникс", "Джек Николсон" ],
+    "correct_answers": [ "Хит Леджер" ],
+    "multiple": false,
+    "topic": "Фильмы"
+  },
+  {
+    "question": "Какие фильмы получили премию 'Оскар' за лучший фильм?",
+    "answers": [ "Паразиты", "1917", "Зеленая книга", "Форма воды" ],
+    "correct_answers": [ "Паразиты", "Зеленая книга", "Форма воды" ],
+    "multiple": true,
+    "topic": "Фильмы"
+  },
+  {
+    "question": "Какой тип контента является центральным в индустрии порно?",
+    "answers": [ "Видеоролики", "Фотографии", "Тексты", "Аудиозаписи" ],
+    "correct_answers": [ "Видеоролики" ],
+    "multiple": false,
+    "topic": "Порно"
+  },
+  {
+    "question": "Кто считается самой известной порноактрисой 2000-х годов?",
+    "answers": [ "Дженна Джеймсон", "Лиза Энн", "Саша Грей", "Миа Халифа" ],
+    "correct_answers": [ "Дженна Джеймсон" ],
+    "multiple": false,
+    "topic": "Порно"
+  },
+  {
+    "question": "Какая из этих категорий не является жанром в порно?",
+    "answers": [ "Хентай", "Гонзо", "Нуар", "БДСМ" ],
+    "correct_answers": [ "Нуар" ],
+    "multiple": false,
+    "topic": "Порно"
+  },
+  {
+    "question": "Какие студии являются крупнейшими в порноиндустрии?",
+    "answers": [ "Brazzers", "Naughty America", "Digital Playground", "Vivid Entertainment" ],
+    "correct_answers": [ "Brazzers", "Naughty America", "Vivid Entertainment" ],
+    "multiple": true,
+    "topic": "Порно"
+  },
+  {
+    "question": "Какой сайт является крупнейшей платформой для порноконтента?",
+    "answers": [ "Pornhub", "Xvideos", "YouPorn", "RedTube" ],
+    "correct_answers": [ "Pornhub" ],
+    "multiple": false,
+    "topic": "Порно"
+  },
+  {
+    "question": "Как называется основная карта в Counter-Strike?",
+    "answers": [ "de_dust2", "de_inferno", "de_nuke", "de_mirage" ],
+    "correct_answers": [ "de_dust2" ],
+    "multiple": false,
+    "topic": "Counter Strike"
+  },
+  {
+    "question": "Какое оружие самое популярное в Counter-Strike?",
+    "answers": [ "AK-47", "M4A1-S", "AWP", "Desert Eagle" ],
+    "correct_answers": [ "AK-47" ],
+    "multiple": false,
+    "topic": "Counter Strike"
+  },
+  {
+    "question": "Какой из этих персонажей не является террористом в Counter-Strike?",
+    "answers": [ "Phoenix", "Leet Crew", "Seal Team 6", "Guerilla Warfare" ],
+    "correct_answers": [ "Seal Team 6" ],
+    "multiple": false,
+    "topic": "Counter Strike"
+  },
+  {
+    "question": "Какие режимы игры существуют в Counter-Strike?",
+    "answers": [ "Deathmatch", "Arms Race", "Bomb Defusal", "Hostage Rescue" ],
+    "correct_answers": [ "Deathmatch", "Arms Race", "Bomb Defusal", "Hostage Rescue" ],
+    "multiple": true,
+    "topic": "Counter Strike"
+  },
+  {
+    "question": "Какое звание является самым высоким в Counter-Strike?",
+    "answers": [ "Global Elite", "Legendary Eagle", "Supreme Master", "Master Guardian" ],
+    "correct_answers": [ "Global Elite" ],
+    "multiple": false,
+    "topic": "Counter Strike"
+  },
+  {
+    "question": "Какое основное место действия игры Dota 2?",
+    "answers": [ "Radiant", "Dire", "Ancient", "Forest" ],
+    "correct_answers": [ "Ancient" ],
+    "multiple": false,
+    "topic": "Dota 2"
+  },
+  {
+    "question": "Как называется главный турнир по Dota 2?",
+    "answers": [ "The Invitational", "The Major", "The International", "The Grand Championship" ],
+    "correct_answers": [ "The International" ],
+    "multiple": false,
+    "topic": "Dota 2"
+  },
+  {
+    "question": "Какой герой в Dota 2 имеет способность 'Black Hole'?",
+    "answers": [ "Enigma", "Earthshaker", "Tiny", "Pudge" ],
+    "correct_answers": [ "Enigma" ],
+    "multiple": false,
+    "topic": "Dota 2"
+  },
+  {
+    "question": "Какие артефакты увеличивают урон?",
+    "answers": [ "Monkey King Bar", "Battle Fury", "Black King Bar", "Abyssal Blade" ],
+    "correct_answers": [ "Monkey King Bar", "Battle Fury", "Abyssal Blade" ],
+    "multiple": true,
+    "topic": "Dota 2"
+  },
+  {
+    "question": "Какой из этих героев является 'support' в Dota 2?",
+    "answers": [ "Crystal Maiden", "Juggernaut", "Phantom Assassin", "Tinker" ],
+    "correct_answers": [ "Crystal Maiden" ],
+    "multiple": false,
+    "topic": "Dota 2"
+  }
+]
